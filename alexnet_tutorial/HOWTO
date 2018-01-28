@@ -1,0 +1,9 @@
+This folder contains the material for the tutorial "Running AlexNet on Raspberry Pi with Compute Library"
+
+In order to uncompress a *.7z on Ubuntu (Debian):
+
+# Install p7zip to uncompress *.7z file on Debian and Ubuntu
+$ sudo apt-get install p7zip
+
+# Uncompress to compute_library_tutorial
+$ 7za e compute_library_alexnet.7z.001 -ocompute_library_tutorial
